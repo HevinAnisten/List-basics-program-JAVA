@@ -28,7 +28,7 @@ import java .util.Scanner;
 			System.out.println("Remove the value in map based on key :17");
 			System.out.println("remove value in map using iterator: 18");
 			System.out.println("Make the List to store only String values:19 ");
-            System.out.println("check the existance of List of elements in the original List:20 ");			
+                        System.out.println("check the existance of List of elements in the original List:20 ");			
 			System.out.println("inserting an element in the middle of a List :21 ");
 			System.out.println("find all the indexes of an element in the List in forward and reverse order: 22");
 			System.out.println("create a new List from set of elements in the original List :23");
